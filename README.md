@@ -12,6 +12,6 @@ realizar as quatro operações, além de permitir a visualização da tabuada e o his
 - **Validação de Entrada:** A calculadora garante que apenas opções validas sejam realizadas.
 - **Tratamento de Divisão por Zero:** A calculadora é capaz de validar erros de divisão por zero.
 - **Tabuada:** A calculadora é capaz de gerar a tabuada de um número informado.
-- **Histórico de Operações:** A calculadora é capaz de armazenar um histórico de operações
+- **Histórico de Operações:** A calculadora é capaz de armazenar um histórico de operações.
 
 
