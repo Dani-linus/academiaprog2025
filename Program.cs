@@ -58,13 +58,11 @@
                     continue;
                 }
 
-                    Console.WriteLine("Digite o primeiro número");
-                string strprimeironumero = Console.ReadLine();
-                double primeiroNumero = Convert.ToDouble(strprimeironumero);
+                Console.WriteLine("Digite o primeiro número");
+                double primeiroNumero = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine("Digite o segundo número");
-                string strsegundonumer = Console.ReadLine();
-                double segundoNumero = Convert.ToDouble(strsegundonumer);
+                double segundoNumero = Convert.ToDouble(Console.ReadLine());
 
 
 
